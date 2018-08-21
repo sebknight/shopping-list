@@ -1,0 +1,20 @@
+{
+  "name": "shopping-list",
+  "version": "0.0.1",
+  "description": "shopping list node program",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon -L index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "npm",
+    "ajax"
+  ],
+  "author": "sebastian maddox",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
